@@ -5,4 +5,4 @@
 
 
 
-<img src="https://img.shields.io/badgepython-3776AB.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
