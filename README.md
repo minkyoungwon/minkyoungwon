@@ -6,3 +6,34 @@
 
 
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+
+<!-- Python 기본 -->
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Python 버전 -->
+<img src="https://img.shields.io/badge/python-3.10-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Python 대체 색상 -->
+<img src="https://img.shields.io/badge/python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue" />
+
+<!-- PyPI (Python Package Index) -->
+<img src="https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white" />
+
+<!-- Django (Python Framework) -->
+<img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+
+<!-- Flask (Python Framework) -->
+<img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
+<!-- FastAPI (Python Framework) -->
+<img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<!-- Jupyter Notebook -->
+<img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<!-- NumPy (Python Library) -->
+<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<!-- Pandas (Python Library) -->
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
