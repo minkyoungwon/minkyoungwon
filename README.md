@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;반갑습니다)](https://git.io/typing-svg)
 
+<div style="border-bottom: 2px solid black; width: 100%;"></div>
 
 <hr />
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
