@@ -1,4 +1,6 @@
 
+꾸미기 진행중
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
 
