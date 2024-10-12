@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
 
-
-![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+취미
+![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Nintendo_Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![LoL](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 민경원 사용 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
