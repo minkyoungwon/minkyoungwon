@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
 
+<hr />
 
 ##             Language / tool / lib
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)     <!-- python -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -19,7 +19,9 @@
 <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />    <!-- numpy -->
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />     <!-- pandas -->
 
-Studing ~
+<hr />
+
+##              Studing ~
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />       <!-- react -->
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -44,11 +46,12 @@ Studing ~
 ![LoL](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 
-민경원 사용 언어
+GitHub_mkw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
 
 <div style="border-bottom: 2px solid black; width: 100%;"></div>
+
 <hr />
 테스트 줄
 
