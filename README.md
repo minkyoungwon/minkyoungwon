@@ -36,11 +36,11 @@
 
 ##              work space (Laptop)
 
-![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_VivoBookPro15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Ultra 7](https://img.shields.io/badge/Intel-Core_Utral7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Ultra 7](https://img.shields.io/badge/Intel-Core_Utral7_155H_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-![RTX4060](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RTX4060](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <hr />
 
