@@ -6,7 +6,8 @@
 디스코드
 ### 테스트
 테스트
-![discode]https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+
+![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 민경원 사용 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
