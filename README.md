@@ -4,7 +4,9 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 디스코드
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+### 테스트
+테스트
+### https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 
 민경원 사용 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
@@ -13,8 +15,13 @@ https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&log
 <hr />
 테스트 줄
 
+기여도
+[![GitHub Streak](https://streak-stats.demolab.com?user=min_kw&theme=dark&locale=ko)](https://git.io/streak-stats)
 
 <hr />
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue" />
