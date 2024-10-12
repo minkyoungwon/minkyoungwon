@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
 
-
+<center>
 Language / tool / lib
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -47,6 +47,8 @@ work space
 기여도
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=min_kw&theme=dark&locale=ko)](https://git.io/streak-stats)
+
+</center>
 
 <hr />
 
