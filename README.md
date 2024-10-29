@@ -2,6 +2,9 @@
 
 AdoRNmEnT
 
+꾸미기 진행중
+(12월 진행 예정)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
