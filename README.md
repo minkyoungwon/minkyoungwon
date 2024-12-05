@@ -70,11 +70,6 @@ AdoRNmEnT
 
 테스트 줄
 
-##               Contributions 기여도
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=min_kw&theme=dark&locale=ko)](https://git.io/streak-stats)
-
-
 <hr />
 
 마크 출처 https://github.com/Envoy-VC/awesome-badges
