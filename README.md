@@ -8,10 +8,6 @@ AdoRNmEnT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Min_GitHub;hi~)](https://git.io/typing-svg)
 
-
-<hr />
-
-
 <br>
 
 <hr />
@@ -57,7 +53,7 @@ AdoRNmEnT
 
 <hr />
 
-##               GitHub_mkw
+##               GitHub_mkw - language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
 
