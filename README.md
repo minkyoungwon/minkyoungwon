@@ -1,10 +1,7 @@
 
 
-AdoRNmEnT
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gooday;hellow_minkw_World)](https://git.io/typing-svg)
 <hr />
-
 ##             Language / tool / library / Studing
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)     <!-- python -->
