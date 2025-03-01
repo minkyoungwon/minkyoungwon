@@ -1,7 +1,8 @@
-
+<!-- 헤더 이미지들 -->
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi&fontSize=50)
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=mkw&fontSize=50)
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Github&fontSize=50)
+
 # Language / Tool / Library / Studying
 
 ## Language
@@ -58,16 +59,13 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-
-
 <hr />
-##               GitHub_mkw - language
+
+## GitHub_mkw - language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
 
-
-##              work space (Laptop)
+## work space (Laptop)
 
 ![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_VivoBookPro15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ultra 7](https://img.shields.io/badge/Intel-Core_Utral7_155H_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -75,26 +73,27 @@
 
 <hr />
 
-##              Hobbies
+## Hobbies
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![LoL](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-
 ![Nintendo_Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 <hr />
 
+<!-- 방문자 수 카운터 -->
+![Visitor Count](https://komarev.com/ghpvc/?username=minkyoungwon&color=blue)
 
+<!-- 깃허브 스탯 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyoungwon&show_icons=true)
 
+<!-- 커밋 스피드(잔디) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://git.io/streak-stats)
+
+<!-- 트로피 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=minkyoungwon)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr />
 
 <div style="border-bottom: 2px solid black; width: 100%;"></div>
-
-<hr />
-
-테스트 줄
-
-<hr />
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gooday;hellow_minkw_World)](https://git.io/typing-svg)
-<hr />
-마크 출처 https://github.com/Envoy-VC/awesome-badges
