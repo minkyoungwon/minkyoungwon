@@ -82,17 +82,14 @@
 
 <hr />
 
-<!-- 방문자 수 카운터 -->
-![Visitor Count](https://komarev.com/ghpvc/?username=minkyoungwon&color=blue)
-
 <!-- 깃허브 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyoungwon&show_icons=true)
 
 <!-- 커밋 스피드(잔디) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://git.io/streak-stats)
 
-<!-- 트로피 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=minkyoungwon)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 방문자 수 카운터 -->
+![Visitor Count](https://komarev.com/ghpvc/?username=minkyoungwon&color=blue)
 
 <hr />
 
