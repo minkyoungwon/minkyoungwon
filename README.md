@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Hi&fontSize=90)
 
 
-###             Language / tool / library / Studing
+#             Language / tool / library / Studing
 
 ##             Language
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)     <!-- python -->
@@ -24,15 +24,16 @@
 ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+##             Studying
+![VUE.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Falsk](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 <hr />
 
 ##              work space (Laptop)
 
 ![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_VivoBookPro15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Ultra 7](https://img.shields.io/badge/Intel-Core_Utral7_155H_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
 ![RTX4060](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <hr />
@@ -52,8 +53,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
 
 
-![VUE.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Falsk](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 <div style="border-bottom: 2px solid black; width: 100%;"></div>
 
