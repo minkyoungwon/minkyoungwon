@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Hi&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gooday;hellow_minkw_World)](https://git.io/typing-svg)
-<hr />
+
 ##             Language / tool / library / Studing
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)     <!-- python -->
+<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,5 +56,6 @@
 테스트 줄
 
 <hr />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gooday;hellow_minkw_World)](https://git.io/typing-svg)
+<hr />
 마크 출처 https://github.com/Envoy-VC/awesome-badges
