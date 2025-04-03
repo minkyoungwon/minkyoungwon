@@ -1,7 +1,7 @@
 <!-- 헤더 이미지들 -->
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=mkw&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
+
+안녕하세요 민경원 Github 입니다
 
 # Language / Tool / Library / Studying
 
