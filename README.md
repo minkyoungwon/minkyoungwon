@@ -1,7 +1,7 @@
 <!-- 헤더 이미지들 -->
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
 
-안녕하세요 민경원 Github 입니다
+안녕하세요 밝고 긍정 가득한 민경원 Github 입니다
 
 # Language / Tool / Library / Studying
 
@@ -61,7 +61,7 @@
 
 <hr />
 
-## GitHub_mkw - language
+## 요즘 자주 사용하는 언어
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon/github-readme-stats)
 
