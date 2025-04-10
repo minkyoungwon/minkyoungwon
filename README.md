@@ -49,6 +49,34 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+
+<h3>Library & Framework</h3>
+
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>API & Utility</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 ## Studying
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
