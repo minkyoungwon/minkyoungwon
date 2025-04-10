@@ -2,8 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
  
 <p align="center">
-  <img src="https://your-image-url.com/cute-dark-image.png" width="500" alt="귀여운 어두운 테마 일러스트"/>
+  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="500" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
+
+
+![Image](https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e)
 
 
 # 안녕하세요 밝고 긍정 가득한 민경원의 Github 입니다
