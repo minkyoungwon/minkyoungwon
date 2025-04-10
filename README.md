@@ -1,7 +1,12 @@
 <!-- 헤더 이미지들 -->
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
 
-안녕하세요 밝고 긍정 가득한 민경원 Github 입니다
+<p align="center">
+  <img src="https://your-image-url.com/cute-dark-image.png" width="500" alt="귀여운 어두운 테마 일러스트"/>
+</p>
+
+
+# 안녕하세요 밝고 긍정 가득한 민경원의 Github 입니다
 
 ## Language / Tool / Library / Studying
 
