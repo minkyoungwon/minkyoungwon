@@ -59,7 +59,7 @@
     <th>Backend</th>
     <th>Database</th>
     <th>API & Utility</th>
-    <ht>Database</ht>
+    <th>Data Science</th>
   </tr>
   <tr>
     <td align="center">
@@ -70,9 +70,10 @@
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
     </td>
     <td align="center">
-      <img src=><br>
-      <img src=>
-      <img src=>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
@@ -80,9 +81,9 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
     </td>
     
   </tr>
