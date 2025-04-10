@@ -57,7 +57,9 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
+    <th>Database</th>
     <th>API & Utility</th>
+    <ht>Database</ht>
   </tr>
   <tr>
     <td align="center">
@@ -68,10 +70,21 @@
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
     </td>
     <td align="center">
+      <img src=><br>
+      <img src=>
+      <img src=>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
       <img src="https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge"><br>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    </td>
+    
   </tr>
 </table>
 
