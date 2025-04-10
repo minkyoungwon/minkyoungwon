@@ -60,6 +60,12 @@
 ## 요즘 자주 사용하는 언어
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact)](https://github.com/minkyoungwon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&langs_count=5)](https://github.com/minkyoungwon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&langs_count=8)](https://github.com/minkyoungwon)
+
+
+
 
 ## work space (Laptop)
 
