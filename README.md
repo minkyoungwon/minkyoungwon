@@ -1,5 +1,5 @@
 <!-- 헤더 이미지들 -->
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50) ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=mkw&fontSize=50)
  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
