@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi_mkw_Github&fontSize=50)
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="300" alt="밤하늘에서 노트북 하는 고양이"/>
+  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
 
 
