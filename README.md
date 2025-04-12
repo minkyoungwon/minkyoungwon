@@ -78,11 +78,9 @@
 <hr />
 
 ## 요즘 자주 사용하는 언어
-
+<!-- 깃허브 스탯 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact)](https://github.com/minkyoungwon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&cache_seconds=10)](https://github.com/minkyoungwon)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=dark)](https://github.com/minkyoungwon)
 
 
@@ -104,6 +102,13 @@
 ![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 <hr />
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a6c0fe&height=120&section=footer"/>
+</p>
+
+
 
 <!-- 깃허브 스탯 -->
 <!-- 
