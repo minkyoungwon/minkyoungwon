@@ -110,14 +110,9 @@
 -->
 
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://github.com/minkyoungwon)
-
-## 📌 Featured Projects
-
-- 🎥 [YouTube_Project](https://github.com/minkyoungwon/Youtube_Project): 유튜브 영상 요약 및 저장 서비스  
-- 🧑‍💻 [Introduce_self_homepage](https://github.com/minkyoungwon/Introduce_self_homepage): 자기소개 홈페이지  
-- 📦 [CSV_to_SQLite_Project](https://github.com/minkyoungwon/CSV_to_SQLite_Project): CSV → SQLite 자동 변환 도구  
-
+-->
 
 
 <!-- 깃허브 스탯 -->
