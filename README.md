@@ -109,14 +109,8 @@
 </p>
 -->
 
-## 📌 Featured Repositories
 
-| Name | Description | Tech |
-|------|-------------|------|
-| [YouTube_Project](https://github.com/minkyoungwon/Youtube_Project) | 유튜브 영상 스크랩 및 요약 저장 서비스 | React, FastAPI, Supabase |
-| [Introduce_self_homepage](https://github.com/minkyoungwon/Introduce_self_homepage) | 자기소개용 퍼스널 웹페이지 | HTML, JS |
-| [CSV_to_SQLite_Project](https://github.com/minkyoungwon/CSV_to_SQLite_Project) | CSV → SQLite 데이터 변환 자동화 | Node.js, SQLite |
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://github.com/minkyoungwon)
 
 
 <!-- 깃허브 스탯 -->
