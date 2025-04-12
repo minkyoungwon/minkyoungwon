@@ -81,6 +81,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact)](https://github.com/minkyoungwon)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&langs_count=5)](https://github.com/minkyoungwon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&cache_seconds=10)](https://github.com/minkyoungwon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=dark)](https://github.com/minkyoungwon)
+
+
+
+
 ## work space (Laptop)
 
 ![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_VivoBookPro15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
