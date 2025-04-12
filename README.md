@@ -81,10 +81,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact)](https://github.com/minkyoungwon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon)](https://github.com/minkyoungwon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&langs_count=5)](https://github.com/minkyoungwon)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&cache_seconds=10)](https://github.com/minkyoungwon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=dark)](https://github.com/minkyoungwon)
