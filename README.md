@@ -103,11 +103,16 @@
 
 <hr />
 
-
+<!-- 깃허브 스탯 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a6c0fe&height=120&section=footer"/>
 </p>
+-->
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:3a3a3a&height=120&section=footer"/>
+</p>
 
 
 <!-- 깃허브 스탯 -->
