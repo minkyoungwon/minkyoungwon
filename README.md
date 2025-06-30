@@ -75,6 +75,21 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🧪 AI Open Source Practice
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fish--speech-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zonos-0088cc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/gTTS-FFB400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coqui_TTS-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
 <hr />
 
 ## 요즘 자주 사용하는 언어
