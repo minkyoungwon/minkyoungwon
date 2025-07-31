@@ -20,7 +20,8 @@
 
 ---
 🧪 AI OpenSource(STT,TTS) Practice
-<p align="left"> <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Fish--speech-FF6F61?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zonos-0088cc?style=for-the-badge"/> <img src="https://img.shields.io/badge/gTTS-FFB400?style=for-the-badge"/> <img src="https://img.shields.io/badge/Coqui_TTS-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Fish--speech-FF6F61?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zonos-0088cc?style=for-the-badge"/> <img src="https://img.shields.io/badge/gTTS-FFB400?style=for-the-badge"/> <img src="https://img.shields.io/badge/Coqui_TTS-4CAF50?style=for-the-badge"/>
+</p>
 🗄️ VectorDB
 <p align="left"> <img src="https://img.shields.io/badge/Chroma-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Weaviate-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qdrant-FF4D6D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Milvus-00BFA5?style=for-the-badge"/> <img src="https://img.shields.io/badge/Faiss-4285F4?style=for-the-badge"/> </p>
 🔤 Embedding Models
