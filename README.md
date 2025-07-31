@@ -6,7 +6,7 @@
 </p>
 
 
-# 안녕하세요 MinKW Github 입니다 😄
+# 안녕하세요 ML_Dev_희망하는 MinKW Github 입니다 😄
 
 ## Language / Tool / Library / Studying
 
