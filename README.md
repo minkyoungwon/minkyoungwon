@@ -5,6 +5,9 @@
   <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
 
+# 안녕하세요 ML_Dev_희망하는 MinKW Github 입니다 😄
+
+## Language / Tool / Library / Studying
 
 </div>
 
@@ -113,107 +116,6 @@
 </details>
 
 
-
-
-# 안녕하세요 ML_Dev_희망하는 MinKW Github 입니다 😄
-
-## Language / Tool / Library / Studying
-
-### Language
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-🧪 AI OpenSource(STT,TTS) Practice
-<p align="left"> <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Fish--speech-FF6F61?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zonos-0088cc?style=for-the-badge"/> <img src="https://img.shields.io/badge/gTTS-FFB400?style=for-the-badge"/> <img src="https://img.shields.io/badge/Coqui_TTS-4CAF50?style=for-the-badge"/>
-</p>
-🗄️ VectorDB
-<p align="left"> <img src="https://img.shields.io/badge/Chroma-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Weaviate-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qdrant-FF4D6D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Milvus-00BFA5?style=for-the-badge"/> <img src="https://img.shields.io/badge/Faiss-4285F4?style=for-the-badge"/> </p>
-🔤 Embedding Models
-<p align="left"> <img src="https://img.shields.io/badge/AWS_Bedrock_Cohere-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <a href="https://huggingface.co/jhgan/ko-sroberta-multitask"> <img src="https://img.shields.io/badge/ko--sroberta--multitask-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/> </a> </p>
-☁️ Cloud
-<p align="left"> <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </p>
-
-### Tool
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-
----
-<h3>Library & Framework</h3>
-
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>API & Utility</th>
-    <th>Data Science</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white">
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
-      <img src="https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br>
-    </td>
-    
-  </tr>
-</table>
-
-
-
----
-## Studying
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-
-
-<hr />
-
-## 요즘 자주 사용하는 언어
-<!-- 깃허브 스탯 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact)](https://github.com/minkyoungwon)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=dark)](https://github.com/minkyoungwon)
-
-
-
-
 ## work space (Laptop)
 
 ![AsusVivobookPro15](https://img.shields.io/badge/Windows-ASUS_VivoBookPro15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -230,48 +132,6 @@
 ![discode](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 <hr />
-
-<!-- 깃허브 스탯 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a6c0fe&height=120&section=footer"/>
-</p>
--->
-
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://github.com/minkyoungwon)
--->
-
-
-<!-- 깃허브 스탯 -->
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyoungwon&show_icons=true)
-
-### Library & Framework
-### Frontend
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### API & Utility
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-ffcc00?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Data Science
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-## Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 
 <!-- 커밋 스피드(잔디) -->
