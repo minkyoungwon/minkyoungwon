@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
 
-# 안녕하세요 ML_Dev_희망하는 MinKW Github 입니다 😄
+# 안녕하세요 ML_Web_Dev MinKW Github 입니다 😄
 
 ## Language / Tool / Library / Studying
 
