@@ -144,5 +144,3 @@ Laptop:
 </div>
 
 <br/>
-
-## 🎮 Hobbies
