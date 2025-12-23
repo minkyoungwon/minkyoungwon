@@ -1,9 +1,171 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MinKW&fontSize=80&fontAlignY=35&desc=ML%20%7C%20Web%20Developer&descAlignY=51&descSize=20)
+
+<br/>
+
+## 👋 안녕하세요!
+
+**ML & Web 개발을 공부하는 개발자입니다**
+
+<br/>
+
+### 🎯 Portfolio & Projects
+[![Notion](https://img.shields.io/badge/📚_My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://determined-primula-ac4.notion.site/_-1a2eae425a6980bd9df3c57576c4f49d)
+
+<br/>
+
+---
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frontend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🤖 AI & ML Tools
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Vector DB:** Chroma · Weaviate · Qdrant · Milvus · Faiss  
+**Embedding:** AWS Bedrock Cohere · [ko-sroberta-multitask](https://huggingface.co/jhgan/ko-sroberta-multitask)  
+**TTS/STT:** Fish-speech · Zonos · gTTS · Coqui TTS
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 📚 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minkyoungwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=bb9af7&title_color=7aa2f7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=minkyoungwon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 💼 Work Environment
+
+```yaml
+Laptop:
+  Model: ASUS VivoBook Pro 15
+  CPU: Intel Core Ultra 7 155H
+  GPU: NVIDIA RTX 4060
+  OS: Windows 11
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🎮 Hobbies
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=flat-square&logo=riot-games&logoColor=white)
+![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 Activity Graph
+
+[![MinKW's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minkyoungwon&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7)](https://github.com/minkyoungwon)
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💡 "_Keep learning, keep building_"
+
+![Visitor Count](https://komarev.com/ghpvc/?username=minkyoungwon&color=7aa2f7&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
+
+
+
+
+
+
+
 <!-- 헤더 이미지들 -->
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi&nbsp;mkw&nbsp;Github&fontSize=50)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
+
 
 # 안녕하세요 ML_Web_Dev MinKW Github 입니다 😄
 
