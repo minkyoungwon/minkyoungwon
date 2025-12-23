@@ -87,10 +87,6 @@
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
 
 ## 🤖 AI Tools I Use
@@ -128,11 +124,6 @@
 </table>
 
 </div>
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
@@ -148,10 +139,6 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
