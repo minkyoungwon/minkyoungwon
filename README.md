@@ -46,12 +46,6 @@
 
 ### 🤖 AI & ML Stack
 
-#### 🤖 AI Tools & Services
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![GPT Desktop](https://img.shields.io/badge/GPT_Desktop-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![SORA](https://img.shields.io/badge/SORA-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-
 #### 📊 Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
