@@ -1,27 +1,16 @@
 <div align="center">
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
-</p>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MinKW&fontSize=80&fontAlignY=35&desc=ML%20%7C%20Web%20Developer&descAlignY=51&descSize=20)
-
 <br/>
-
 ## 👋 안녕하세요!
-
 **ML & Web 개발을 공부하는 개발자입니다**
-
 <br/>
-
 ### 🎯 Portfolio & Projects
 [![Notion](https://img.shields.io/badge/📚_My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://determined-primula-ac4.notion.site/_-1a2eae425a6980bd9df3c57576c4f49d)
-
 <br/>
 
 ---
-
 <br/>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frontend
@@ -69,28 +58,6 @@
 
 <br/>
 
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minkyoungwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=bb9af7&title_color=7aa2f7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyoungwon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## 💼 Work Environment
 
 ```yaml
@@ -102,8 +69,6 @@ Laptop:
 ```
 
 <br/>
-
----
 
 <br/>
 
@@ -131,12 +96,20 @@ Laptop:
 </div>
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
+</p>
 
 
 
 
 
-<!-- 헤더 이미지들 -->
+
+
+
+
+
+<!-- 헤더 이미지들 
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=Hi&nbsp;mkw&nbsp;Github&fontSize=50)
 
 <p align="center">
@@ -277,9 +250,11 @@ Laptop:
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minkyoungwon&theme=dark)](https://git.io/streak-stats)
 
-<!-- 방문자 수 카운터 -->
+<!-- 방문자 수 카운터 
 ![Visitor Count](https://komarev.com/ghpvc/?username=minkyoungwon&color=blue)
 
 <hr />
 
 <div style="border-bottom: 2px solid black; width: 100%;"></div>
+
+-->
