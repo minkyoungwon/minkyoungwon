@@ -39,9 +39,22 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Vector DB:** Chroma · Weaviate · Qdrant · Milvus · Faiss  
-**Embedding:** AWS Bedrock Cohere · [ko-sroberta-multitask](https://huggingface.co/jhgan/ko-sroberta-multitask)  
-**TTS/STT:** Fish-speech · Zonos · gTTS · Coqui TTS
+**🗄️ Vector Database**  
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A9CE?style=flat-square&logoColor=white)
+![Faiss](https://img.shields.io/badge/Faiss-0081CB?style=flat-square&logoColor=white)
+
+**🧠 Embedding Models**  
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock_Cohere-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+[![ko-sroberta](https://img.shields.io/badge/ko--sroberta--multitask-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/jhgan/ko-sroberta-multitask)
+
+**🎤 TTS / STT**  
+![Fish-speech](https://img.shields.io/badge/Fish--speech-4ECDC4?style=flat-square&logoColor=white)
+![Zonos](https://img.shields.io/badge/Zonos-95E1D3?style=flat-square&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-F38181?style=flat-square&logoColor=white)
+![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-AA96DA?style=flat-square&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -57,6 +70,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 <br/>
+
 
 ## 💼 Work Environment
 
