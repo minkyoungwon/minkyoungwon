@@ -1,18 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm MinKW
-
 **ML & Web Developer**
-
-<br/>
 
 ### 🎯 Portfolio & Projects
 [![Notion](https://img.shields.io/badge/📚_My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://determined-primula-ac4.notion.site/_-1a2eae425a6980bd9df3c57576c4f49d)
 
-<br/>
-
 ---
-
 <br/>
 
 ## 🛠️ Tech Stack
