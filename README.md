@@ -4,10 +4,16 @@
 
 **ML & Web Developer**
 
+<br/>
+
 ### 🎯 Portfolio & Projects
 [![Notion](https://img.shields.io/badge/📚_My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://determined-primula-ac4.notion.site/_-1a2eae425a6980bd9df3c57576c4f49d)
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +35,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -44,6 +51,12 @@
 <td width="50%" valign="top">
 
 ### 🤖 AI & ML Stack
+
+#### 🤖 AI Tools & Services
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![GPT Desktop](https://img.shields.io/badge/GPT_Desktop-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![SORA](https://img.shields.io/badge/SORA-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
 #### 📊 Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -86,12 +99,58 @@
 
 <div align="center">
 
+## 🤖 AI Tools I Use
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ChatGPT
+![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![GPT Desktop](https://img.shields.io/badge/GPT_Desktop-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=white)
+![Sora](https://img.shields.io/badge/Sora-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### Claude
+![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-B08968?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-9C7A5E?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Skill](https://img.shields.io/badge/Claude_Skill-8B6F47?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### Gemini
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-7461AA?style=flat-square&logo=google&logoColor=white)
+![Nanobana](https://img.shields.io/badge/Nanobana-5A4D93?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 ## 📚 Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
@@ -138,3 +197,5 @@ Laptop:
 </div>
 
 <br/>
+
+## 🎮 Hobbies
