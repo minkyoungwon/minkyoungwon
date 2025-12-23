@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
 </p>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MinKW&fontSize=80&fontAlignY=35&desc=ML%20%7C%20Web%20Developer&descAlignY=51&descSize=20)
 
 <br/>
