@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cca48d66-1a54-4b3e-b0d7-fcaea11d637e" width="200" alt="밤하늘에서 노트북 하는 고양이"/>
+</p>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=MinKW&fontSize=80&fontAlignY=35&desc=ML%20%7C%20Web%20Developer&descAlignY=51&descSize=20)
 
 <br/>
@@ -88,20 +90,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=minkyoungwon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## 💼 Work Environment
 
 ```yaml
@@ -126,18 +114,6 @@ Laptop:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 <br/>
-
----
-
-<br/>
-
-## 📈 Activity Graph
-
-[![MinKW's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minkyoungwon&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7)](https://github.com/minkyoungwon)
-
-<br/>
-
----
 
 <div align="center">
 
