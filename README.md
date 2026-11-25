@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm MinKW.
+# Hi, I'm MinKW. 안녕하세요 민경원 입니다
 
 **AI & Full-Stack Developer**
 
